@@ -1,0 +1,3 @@
+This is a two-pass assembler written in C on the Turbo C++ 3.0 IDE. In its current state, the assembler can analyze only a limited range or keywords available to the standard SIC, but can easily be 'upgraded' by including the keywords and the corresponding OPCODE-s to the associated data structure.
+
+I wrote this program as a part of regular lab work at college, and since I spent a fair amount of time on it, I thought I might as well release it.
